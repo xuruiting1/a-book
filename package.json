@@ -1,0 +1,25 @@
+{
+  "name": "a-book",
+  "version": "1.0.0",
+  "description": "就是电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuruiting1/a-book.git"
+  },
+  "author": "xuruiting1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuruiting1/a-book/issues"
+  },
+  "homepage": "https://github.com/xuruiting1/a-book#readme",
+  "devDependencies": {
+                  "gitbook-cli": "^2.3.2"                       
+                                    
+                      
+    }
+
+}
